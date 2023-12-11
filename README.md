@@ -26,7 +26,7 @@ python -m pip install cx_Oracle --upgrade
 # Modelo Relacional
 ![RELACIONAL](assets/Relacional.png)
 
-### Authors
+### Autores
 
 |        Nome                         |    NUSP   |       
 |:-----------------------------------:|:---------:|
