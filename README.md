@@ -3,12 +3,12 @@ Neste projeto, desenvolvemos um sistema de banco de dados para uma aplicação e
 
 
 ## Tecnologias 
-**Python3** - Para fazer o protótipo que acessa a API do SGBDR
+**Python3** - Para fazer o protótipo que acessa a API do SGBDR<br>
 **Oracle Database** - Sistema de gerenciamento de banco de dados, utilizado para confecção de tabelas e consultas
 
 ## Executando a aplicação
 ### Bibliotecas necessárias:
-cx_Oracle
+cx_Oracle<br><br>
 Para instalar essas bibliotecas usando o pacote `python`, você pode executar o seguinte comando:
 
 ```
