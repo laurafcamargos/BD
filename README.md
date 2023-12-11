@@ -25,3 +25,14 @@ python -m pip install cx_Oracle --upgrade
 
 # Modelo Relacional
 ![RELACIONAL](assets/Relacional.png)
+
+### Authors
+
+|        Nome                         |    NUSP   |       
+|:-----------------------------------:|:---------:|
+|    Júlio Cesar Cabral               |  13672922 |  
+|   Laura Fernandes Camargos          |  13692334 |   
+|   Lucas Masaki Maeda                |  13692272 |  
+|   Matheus Henrique da Silva         |  13696658 |    
+|   Luís Henrique Hergesel Lima       |  13692341 |   
+
